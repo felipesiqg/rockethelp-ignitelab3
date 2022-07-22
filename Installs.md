@@ -24,3 +24,12 @@ OBS: Go to repository on github to set all configs on metro.config.js and on ./s
 
 ## npm i --save phosphor-react-native
 Library to use phosphor icons
+
+## npm install @react-navigation/native
+Navigation core
+
+## expo install react-native-screens react-native-safe-area-context
+Install all the dependencies of @react-navigation/native
+
+## npm install @react-navigation/native-stack
+stack strategy of navigation 
